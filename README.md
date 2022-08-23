@@ -1,0 +1,1 @@
+A TUI weather application, which tells you forecast information based on the provided location.
